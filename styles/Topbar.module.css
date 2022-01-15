@@ -1,0 +1,29 @@
+.container {
+  height: 100px;
+  padding: 1px 50px;
+  background-color: #202020;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.Button {
+  height: 50px;
+  width: 100px;
+  border: none;
+  background-color: #5874d6;
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Logoimage {
+  height: 180px;
+  width: 180px;
+
+  cursor: pointer;
+}
